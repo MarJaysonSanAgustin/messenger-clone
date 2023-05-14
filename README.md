@@ -1,8 +1,6 @@
 # Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
-This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
-
-Master the art of building a real-time Messenger clone using the latest web development technologies. In this comprehensive tutorial, we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
+![image](https://github.com/MarJaysonSanAgustin/messenger-clone/assets/15644699/cca6014b-77e3-48eb-9ec3-7611b35d6b72)
 
 Key Features:
 
